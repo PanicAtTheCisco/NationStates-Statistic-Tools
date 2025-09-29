@@ -102,7 +102,7 @@ def plot_data(nation_name, data):
     # naming the y-axis
     plt.ylabel('Region Rank (Taller bar = better rank)'.upper(), color='white')
     # plot title
-    plt.title(nation_name.upper() + ' STATISTICS', color='white')
+    plt.title(nation_name.upper() + ' REGIONAL STATISTIC RANKINGS', color='white')
 
     # Adjust tick label colors and positions
     ax.tick_params(axis='y', colors='white')
