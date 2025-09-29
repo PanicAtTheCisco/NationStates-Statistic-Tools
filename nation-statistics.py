@@ -68,6 +68,7 @@ def print_data(data):
     for stat in data:
         print(f"Stat Name: {stat['name']}, Score: {stat['score']}, World Rank: {stat['rank']}, Region Rank: {stat['rrank']}")
 
+# This part was vibe coded, I am not that good with matplotlib
 def plot_data(nation_name, data):
     # x-coordinates of bar centers
     centers = [i * 1.5 for i in range(1, len(data) + 1)]
