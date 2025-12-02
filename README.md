@@ -1,5 +1,5 @@
 ## NationStates Statistic Tools
-* A collection of tools I made for [NationStates](https://www.nationstates.net/) to keep track of and monitor the statistics of both my nation and that of the nations in my region
+* A collection of tools I made for [NationStates](https://www.nationstates.net/) to keep track of and monitor the statistics of both my nation and that of the nations in my region.
 
 ### nation-regional-rankings.py
 * Returns the current statistic rankings of a single nation in their region
